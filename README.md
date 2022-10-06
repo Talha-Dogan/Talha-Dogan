@@ -5,7 +5,7 @@
  ◼ 📫 How to reach me:
 
    ▫ 🚩 tdogan181@gmail.com
-   ▫ 🚩 https://www.linkedin.com/in/talha-do%C4%9Fan-820a081b1/
+   ▫ 🚩 https://www.linkedin.com/in/talha-do%C4%9Fan-820a081b1/⚫
 
 
  ◼ 💻 I am working on:
@@ -21,5 +21,5 @@
    ▫ 🎯 https://www.youtube.com/c/UbnJr
    
    
- ◼ ⌚ If there's anything I can help with, feel free to ask.
-.
+ ◼ ⌚ If there's anything I can help with, feel free to ask 
+
