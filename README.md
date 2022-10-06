@@ -11,7 +11,7 @@
  ◽ 💻 I am working on:
 
    ▫ ✔ Game Dvelopment and 3D, 2D modeling
-   ▫ ✔ Golang, C#, linux, Unity, Unreal, Solidworks
+   ▫ ✔ Golang, C#, linux, Unity, Unreal, Solidworks, Blender
 
  ◽ ⚡ Stack Share : https://stackshare.io/talha-dogan
 
