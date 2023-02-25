@@ -22,5 +22,12 @@ Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp
 <!-- <div align="center"> -->
 ### Github stats
 
+                        
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Talha-Dogan&show_icons=true&theme=default&hide_border=false&locale=en)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Talha-Dogan&theme=github&utcOffset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talha-Dogan&theme=github)
+
+
+---
 
 
