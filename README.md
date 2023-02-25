@@ -21,5 +21,5 @@ Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
+![Counter](https://komarev.com/ghpvc/?username=Talha-Dogan&style=flat-square&label=Profile%20Views)
 
