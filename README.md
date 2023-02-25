@@ -10,8 +10,6 @@ Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55" ></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg"  height="55" width="55" ></a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg"  height="55" width="55" >
-<a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg"  height="55" width="55" ></a>
-<a href="https://www.java.com/"><img src="https://cdn.worldvectorlogo.com/logos/java.svg"  height="55" width="55" >
 ></a>
 
 <br/>
