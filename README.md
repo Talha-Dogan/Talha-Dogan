@@ -35,7 +35,7 @@ React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;|&n
 ## Puedo ayudarte? Contactame
 <br/>
 <a href="https://www.linkedin.com/in/mauricio-adrian-cuello"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45" >
-<a href="talha:tdogan181@gmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
+<a href=""><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
 
 
 
