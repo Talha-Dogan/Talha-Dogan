@@ -19,15 +19,7 @@ Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp
 <a href=https://www.linkedin.com/in/talha-doğan-820a081b1/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" height="45" width="45" >
 <a href="mailto:tdogan181@gmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
 
-<!-- <div align="center"> -->
-### Github stats
-
-                        
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Talha-Dogan&show_icons=true&theme=default&hide_border=false&locale=en)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Talha-Dogan&theme=github&utcOffset=3)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Talha-Dogan&theme=github)
 
 
----
-
+![Counter](https://komarev.com/ghpvc/?username=husamettinarabaci&style=flat-square&label=Profile%20Views)
 
