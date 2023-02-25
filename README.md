@@ -32,10 +32,10 @@ React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;|&n
 
 <br/><br/>
 
-## Puedo ayudarte? Contactame
+## ⌚ If there's anything I can help with, feel free to ask
 <br/>
-<a href=https://www.linkedin.com/in/talha-doğan-820a081b1/"><img src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmDm52du7-vlrSNK-lu8TmpZ6yBcrrU2Pe0yKQ1GEwiRXSqLRw)"  height="225" width="225" >
-<a href="https://www.linkedin.com/in/talha-do%C4%9Fan-820a081b1/"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="225" width="225" ></a>
+<a href=https://www.linkedin.com/in/talha-doğan-820a081b1/"><img src="[https://image.flaticon.com/icons/png/512/174/174857.png](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmDm52du7-vlrSNK-lu8TmpZ6yBcrrU2Pe0yKQ1GEwiRXSqLRw)"  height="45" width="45" >
+<a href="mailto:tdogan181@gmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="225" width="225" ></a>
 
 
 
