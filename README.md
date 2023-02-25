@@ -2,7 +2,7 @@
 
 #🎮 I’m a Game Developer
 
-# Mis Skills:
+# My Skills:
 Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55" ></a>
