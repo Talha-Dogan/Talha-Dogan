@@ -34,7 +34,7 @@ React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;|&n
 
 ## Puedo ayudarte? Contactame
 <br/>
-<a href=linkedin.com/in/talha-doğan-820a081b1"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45" >
+<a href=https://linkedin.com/in/talha-doğan-820a081b1"><img src="https://image.flaticon.com/icons/png/512/174/174857.png"  height="45" width="45" >
 <a href=""><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
 
 
