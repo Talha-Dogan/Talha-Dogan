@@ -24,11 +24,6 @@ Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp
 ## Aprendiendo:
 React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Typescript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Kubernetes
 
-<a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/react.svg"  height="55" width="55" ></a>
-<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"  height="55" width="55" ></a>
-<a href="https://www.python.org.ar/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg"  height="55" width="55" ></a>
-<a href="https://www.docker.com/"><img src="https://ccie.tv/content/images/2019/08/docker-11.svg"  height="55" width="55" ></a>
-<a href="https://kubernetes.io//"><img src="https://icon-library.com/images/533a30ab9c.svg.svg"  height="55" width="55" ></a>
 
 <br/><br/>
 
