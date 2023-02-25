@@ -3,7 +3,7 @@
 #🎮 I’m a Game Developer
 
 # My Skills:
-Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;.NET&nbsp;&nbsp;&nbsp;|Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;
+Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;.NET&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Javascript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;
 
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://mennankose.com/content/images/size/w1000/2019/09/netcore.png"  height="45" width="45"></a>
 <a href="https://unity.com/"><img src="https://yt3.googleusercontent.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj"  height="45" width="45"></a>
@@ -18,4 +18,5 @@ Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;.NET&nbsp;&nbsp;&nbsp;|Javascript&nbsp
 <br/>
 <a href=https://www.linkedin.com/in/talha-doğan-820a081b1/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" height="45" width="45" >
 <a href="mailto:tdogan181@gmail.com"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
+
 
