@@ -49,6 +49,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/tdgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tdgn" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/tdgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tdgn" /></a></p><br><br>
 
 
