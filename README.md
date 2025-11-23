@@ -36,10 +36,10 @@
 <br/><br/>
 
 ## ⌚ If there's anything I can help with, feel free to ask
-<br/>
-<a href=[https://www.linkedin.com/in/talha-doğan-820a081b1/](https://www.linkedin.com/in/talha--dogan/)(https://www.linkedin.com/in/talha--dogan/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" height="45" width="45" >
-<a href="mailto:talha.dogan.2023@ogr.iu.edu.tr"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
 
+https://www.linkedin.com/in/talha--dogan/
+
+talha.dogan.2023@ogr.iu.edu.tr
 
 
 
