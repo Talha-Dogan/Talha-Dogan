@@ -31,6 +31,26 @@
 </p>
 
 <br/>
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=talha-dogan&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-dogan&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/talha-dogan/talha-dogan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
 
 ### 📫 Connect with me:
 
