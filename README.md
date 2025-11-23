@@ -1,14 +1,7 @@
-# hey 👋
+# Hey there! 👋 I’m a Game Developer 🎮
 
-#🎮 I’m a Game Developer
-
-# My Skills:
-
-
-- 🔭 I’m currently working on **Game Developing, C#, Unity, **
-
- Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Unreal Engine&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Blender&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Photoshop&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Illustrator&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;dotNET&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Golang&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Arduino
-</p>
+- 🔭 I’m currently working on **Game Development, C# and Unity**
+- 🌱 I’m currently learning **Unreal Engine & Advanced 3D Mechanics**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,20 +30,17 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/></a>
 </p>
 
-<br/><br/>
+<br/>
 
-## ⌚ If there's anything I can help with, feel free to ask
+### 📫 Connect with me:
 
-https://www.linkedin.com/in/talha--dogan/
+<p align="left">
+<a href="https://linkedin.com/in/talha--dogan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha--dogan" /></a>
+<a href="mailto:talha.dogan.2023@ogr.iu.edu.tr"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
-talha.dogan.2023@ogr.iu.edu.tr
-
-
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="talha-dogan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-dogan" alt="talha-dogan" /></a> </p>
-
-
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-dogan&theme=flat&no-frame=true&margin-w=15" alt="talha-dogan" /></a> </p>
