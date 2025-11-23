@@ -37,7 +37,7 @@
 
 ## ⌚ If there's anything I can help with, feel free to ask
 <br/>
-<a href=https://www.linkedin.com/in/talha-doğan-820a081b1/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" height="45" width="45" >
+<a href=[https://www.linkedin.com/in/talha-doğan-820a081b1/](https://www.linkedin.com/in/talha--dogan/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" height="45" width="45" >
 <a href="mailto:talha.dogan.2023@ogr.iu.edu.tr"><img src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg"  height="45" width="45" ></a>
 
 
@@ -48,6 +48,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-dogan" alt="talha-dogan" /></a> </p>
 
 
-<p><a href="https://www.buymeacoffee.com/tdgn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tdgn" /></a></p><br><br>
 
 
