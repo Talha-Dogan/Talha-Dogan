@@ -5,7 +5,7 @@
 # My Skills:
 
 
-- 🔭 I’m currently working on **.Net, C#, JavaScript, IDE,**
+- 🔭 I’m currently working on **Game Developing, C#, Unity, **
 
  Arduino&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Blender&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;dotNET&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Golang&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;HTML5&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Illustrator&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Photoshop&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;React Native&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Unity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Unreal Engine
 </p>
