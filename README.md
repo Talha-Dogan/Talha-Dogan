@@ -31,23 +31,24 @@
 </p>
 
 <br/>
-<div align="center">
-  <h2>📊 My GitHub Stats</h2>
-</div>
 
 <div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=talha-dogan&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=talha-dogan&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-dogan&layout=compact&theme=dracula&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-dogan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/talha-dogan/talha-dogan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://github.com/talha-dogan/talha-dogan/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/talha-dogan/talha-dogan/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </a>
 </div>
 
 <br/>
