@@ -50,8 +50,10 @@ I'm always learning and exploring new tools and techniques to improve my design 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
-  
   <img src="https://cdn.simpleicons.org/lightburn/white" height="40" alt="lightburn logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/1200/solidworks.jpg" height="40" alt="solidworks cube logo" />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
