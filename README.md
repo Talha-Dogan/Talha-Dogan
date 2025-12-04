@@ -28,7 +28,7 @@ I'm a person with a strong passion for creating engaging and meaningful interact
 🎮 Game Design & Development (Unity / C# / Unreal)<br><br> 
 ⚙️ Gameplay Systems & Level Design<br><br> 
 🎨 UI/UX Design & 3D Mechanics<br><br> 
-🕹️ Interactive Prototypes & Personal Projects<br><br> 
+🤖 Interactive Prototypes & Personal Projects<br><br> 
 I'm always learning and exploring new tools and techniques to improve my design and development skills. I'm especially interested in player feedback loops, mechanics, and immersive environments.<br><br>
 🚀 <strong>I love collaborating on projects, solving problems creatively, and sharing knowledge with the community. Always open to remote work, side projects, and new opportunities!</strong>
 </p>
