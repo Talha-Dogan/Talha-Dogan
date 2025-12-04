@@ -45,7 +45,10 @@ I'm always learning and exploring new tools and techniques to improve my design 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/arduino.png" height="40" alt="arduino ide logo" />
+
+
   <br><br>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
