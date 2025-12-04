@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Talha Doğan and I'm a Game Developer.</p>
+<p align="left">My name is Talha and I'm a Game Developer.</p>
 
 ###
 
