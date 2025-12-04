@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Talha Doğan and I'm a Game Development.</p>
+<p align="left">My name is Talha Doğan and I'm a Game Developer.</p>
 
 ###
 
@@ -86,5 +86,5 @@ I'm always learning and exploring new tools and techniques to improve my design 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=talha-dogan.talha-dogan&" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=talha-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="talha-dogan" />
 </div>
