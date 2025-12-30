@@ -98,3 +98,5 @@ I'm always learning and exploring new tools and techniques to improve my design 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=talha-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="talha-dogan" />
 </div>
+
+:)
