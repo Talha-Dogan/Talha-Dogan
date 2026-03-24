@@ -74,10 +74,7 @@ I'm always learning and exploring new tools and techniques to improve my design 
 
 ###
 
-<div align="center">
-  <h2 align="center">🚀 HI WORLD, IT'S TALHA!</h2>
-  <p align="center"><i>Building immersive worlds, one line of code at a time.</i></p>
-  
+
   <br>
 
   <a href="https://github.com/talha-dogan/talha-dogan/actions/workflows/snake.yml">
