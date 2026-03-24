@@ -75,6 +75,11 @@ I'm always learning and exploring new tools and techniques to improve my design 
 ###
 
 <div align="center">
+  <h2 align="center">🚀 HI WORLD, IT'S TALHA!</h2>
+  <p align="center"><i>Building immersive worlds, one line of code at a time.</i></p>
+  
+  <br>
+
   <a href="https://github.com/talha-dogan/talha-dogan/actions/workflows/snake.yml">
     <img src="https://raw.githubusercontent.com/talha-dogan/talha-dogan/output/github-contribution-grid-snake.svg?v=1" alt="snake animation" />
   </a>
