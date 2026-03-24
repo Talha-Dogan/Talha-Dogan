@@ -67,10 +67,7 @@ I'm always learning and exploring new tools and techniques to improve my design 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talha-dogan&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Talha's Stats" height="190" />
-  
-  <br><br>
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha-dogan&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
