@@ -68,14 +68,18 @@ I'm always learning and exploring new tools and techniques to improve my design 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha-dogan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=talha-dogan&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Talha's Stats" height="190" />
+  
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha-dogan&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://github.com/talha-dogan/talha-dogan/actions/workflows/snake.yml">
-    <img src="https://raw.githubusercontent.com/talha-dogan/talha-dogan/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    <img src="https://raw.githubusercontent.com/talha-dogan/talha-dogan/output/github-contribution-grid-snake.svg?v=1" alt="snake animation" />
   </a>
 </div>
 
@@ -85,11 +89,11 @@ I'm always learning and exploring new tools and techniques to improve my design 
 
 <div align="center">
   <a href="https://linkedin.com/in/talha--dogan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <img width="12" />
   <a href="mailto:tdogan181@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
   </a>
 </div>
 
@@ -98,5 +102,3 @@ I'm always learning and exploring new tools and techniques to improve my design 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=talha-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="talha-dogan" />
 </div>
-
-:)
